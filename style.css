@@ -1,0 +1,19 @@
+.cool-button {
+    background-color: #4CAF50; /* Color de fondo */
+    border: none; /* Sin borde */
+    color: white; /* Color del texto */
+    padding: 15px 32px; /* Espacio interno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Mostrar como un bloque */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 4px 2px; /* Espacio externo */
+    cursor: pointer; /* Cambiar el cursor al pasar el mouse */
+    border-radius: 50px; /* Redondear las esquinas */
+    transition-duration: 0.4s; /* Duración de la transición */
+  }
+  
+  .cool-button:hover {
+    background-color: #008CBA; /* Color de fondo al pasar el mouse */
+    color: white; /* Color del texto al pasar el mouse */
+  }
